@@ -3,7 +3,8 @@ body {
   font-family: ABeeZee;
 }
 .complete {
-  background-color: forestgreen;
+  background-color:
+    hsla(179, 55%, 49%, 0.25);
   opacity: 0.5;
   text-decoration: line-through;
 }
