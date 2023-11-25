@@ -62,7 +62,7 @@ body {
 }
 .Todo-list-container {
   align-items: flex-start;
-  background-color: blanchedalmond;
+  background-color: rgb(175, 247, 224);
   border-radius: 33px;
   display: flex;
   justify-content: center;
